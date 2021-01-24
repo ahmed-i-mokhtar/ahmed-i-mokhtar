@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Senior Software Engineer :zap:
 AI Systems, Computer Vision, Deep Learning, Automotive Software Engineer. International Judging.
+
 [![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-i-mokhtar&hide=contribs,issues,stars&show_icons=true&theme=radical?count_private=true)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-i-mokhtar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
