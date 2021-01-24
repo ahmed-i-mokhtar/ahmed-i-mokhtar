@@ -20,7 +20,4 @@ AI Systems, Computer Vision, Deep Learning, Automotive Software Engineer. Intern
 
 ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-i-mokhtar&hide=contribs,issues,stars&show_icons=true&theme=radical?count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-i-mokhtar&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-i-mokhtar&layout=compact&langs_count=10)
