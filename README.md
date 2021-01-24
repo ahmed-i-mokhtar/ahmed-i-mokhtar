@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Senior Software Developer :zap:
 
-[![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-i-mokhtar)](https://github.com/anuraghazra/github-readme-stats)
+[![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-i-mokhtar&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
