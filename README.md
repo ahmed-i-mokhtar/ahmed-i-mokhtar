@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ## Senior Software Engineer :zap:
-AI Systems, Computer Vision, Deep Learning, Automotive Software Engineer. International Judging...
+
+- 🔭 I’m currently working on AI systems for automotive 
+- 🌱 I’m currently learning advanced deep learning and robotics
+- 👯 I’m looking to collaborate on AI algorithms to solve real world issues
+- 💬 Ask me about AI Systems, Computer Vision, Deep Learning, Automotive Software Systems, and International Judging.
+- 📫 How to reach me: ahmedimokhtar.com
+- ⚡ Fun fact: AI will Become Smarter than Humans
 
 ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-i-mokhtar&hide=contribs,issues,stars&show_icons=true&theme=radical?count_private=true)
 
