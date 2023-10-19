@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ahmedimokhtar.com
 - ⚡ Fun fact: AI will Become Smarter than Humans
 
-![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-i-mokhtar&hide=contribs,issues,stars&show_icons=true&theme=radical?count_private=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
