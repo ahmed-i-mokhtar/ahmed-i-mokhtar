@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 
 ## Senior Software Engineer :zap:
 
-- 🔭 I’m currently working on AI systems for automotives
-- 🌱 I’m currently learning advanced deep learning and robotics
-- 👯 I’m looking to collaborate on AI algorithms to solve real world issues
-- 💬 Ask me about AI Systems, Computer Vision, Deep Learning, Automotive Software Systems, and International Judging.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
